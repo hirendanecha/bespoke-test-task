@@ -13,7 +13,7 @@ const CreateAppointment = () => {
   return (
     <MainCreateAppointmentWrapper>
       <SemiHeader
-        left={{ text: "Create Appointment slots" }}
+        left={{ text: "Create Appointment Slots" }}
         current="appointment-create"
       />
       <TabsWrapper>

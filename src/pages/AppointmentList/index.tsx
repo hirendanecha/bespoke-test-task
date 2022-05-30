@@ -78,7 +78,7 @@ const AppointmentList = () => {
   return (
     <MainCreateAppointmentWrapper>
       <SemiHeader
-        left={{ text: "Appointment slots", extraText: `(${data?.length})` }}
+        left={{ text: "Appointment Slots", extraText: `(${data?.length})` }}
         current="appointment-list"
       />
 
